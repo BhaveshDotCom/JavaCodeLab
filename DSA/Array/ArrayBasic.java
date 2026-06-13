@@ -23,6 +23,5 @@ public class ArrayBasic {
         for (int num : numsArr){
             System.out.print(num+" ");
         }
-
     }
 }

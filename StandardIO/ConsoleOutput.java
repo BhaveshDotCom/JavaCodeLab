@@ -1,6 +1,6 @@
 package StandardIO;
 
-public class ConsoleIO {
+public class ConsoleOutput {
     public static void main(String[] args) {
         System.out.println("Hello, World");
         MySystem.MyOut.printOne();
