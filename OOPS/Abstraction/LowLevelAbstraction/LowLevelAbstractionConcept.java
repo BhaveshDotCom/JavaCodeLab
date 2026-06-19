@@ -1,4 +1,4 @@
-package OOPS.Abstraction.LowLevelAbstraction;
+package LowLevelAbstraction;
 
 public class LowLevelAbstractionConcept {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-package OOPS.Abstraction.HighLevelAbstraction;
+package HighLevelAbstraction;
+
 
 public class HLAusingInheritance {
     public static void main(String[] args) {

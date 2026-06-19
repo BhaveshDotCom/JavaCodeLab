@@ -1,4 +1,4 @@
-package OOPS.Abstraction.HighLevelAbstraction;
+package HighLevelAbstraction;
 
 public class InterfaceHLA {
     public static void main(String[] args) {
