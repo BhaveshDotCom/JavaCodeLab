@@ -1,5 +1,3 @@
-package OOPS.Abstraction;
-
 public class MultipleInheritance {
     public static void main(String[] args) {
         Smartphone smartphone = new Smartphone(); 
