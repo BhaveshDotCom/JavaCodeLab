@@ -1,4 +1,4 @@
-package DSA.Strings;
+package DataStructure.Strings;
 
 public class MutableString {
 

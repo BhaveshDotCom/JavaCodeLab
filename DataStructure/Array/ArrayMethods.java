@@ -1,4 +1,4 @@
-package DSA.Array;
+package DataStructure.Array;
 
 import java.util.Arrays;
 

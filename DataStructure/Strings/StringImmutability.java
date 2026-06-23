@@ -1,4 +1,4 @@
-package DSA.Strings;
+package DataStructure.Strings;
 
 public class StringImmutability {
     public static void main(String[] args) {

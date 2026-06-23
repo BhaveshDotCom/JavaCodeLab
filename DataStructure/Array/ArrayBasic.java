@@ -1,4 +1,4 @@
-package DSA.Array;
+package DataStructure.Array;
 
 public class ArrayBasic {
     public static void main(String[] args) {
